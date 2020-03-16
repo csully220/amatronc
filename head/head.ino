@@ -1,8 +1,8 @@
 #include <Servo.h>
 
 #define EYES 3
-#define RT_LIMIT 130
-#define LT_LIMIT 55
+#define RT_LIMIT 160
+#define LT_LIMIT 35
 #define MID 90
 Servo eyes;
 void setup() {
